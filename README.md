@@ -1,1 +1,1 @@
-# Snake-Gameyay
+This a Snake Game
