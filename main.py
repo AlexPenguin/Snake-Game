@@ -1,4 +1,4 @@
-python3 yay!
+
 import turtle
 import time
 import random
